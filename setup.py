@@ -10,7 +10,15 @@
 #
 # First created: 12.1.17
 
-from setuptools import setup
+from setuptools import setup, find_packages
+#~ from codecs import open
+#~ import os
+
+#~ here = os.path.abspath(os.path.dirname(__file__))
+
+#~ with open(os.path.join(here, 'README.rst'),encoding='utf-8') as f:
+	#~ long_description = f.read()
+
 
 setup(name='histotripsy',
       version='0.1',
@@ -18,6 +26,7 @@ setup(name='histotripsy',
       url='https://github.com/macoskey/histotripsy',
       author='Jonathan Macoskey',
       author_email='macoskey@umich.edu',
-      license='Michigan',
+      license='MIT',
+      classifiers=['Development Status :: 3 - Alpha'],
       packages=['histotripsy'],
-      zip_safe=False)
+)
