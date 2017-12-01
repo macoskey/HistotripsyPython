@@ -11,6 +11,10 @@
 # First created: 12.1.17
 
 from setuptools import setup
+# from codecs import open
+# from os import path
+
+# here = path.abspath(path.dirname(__file__))
 
 setup(name='histotripsy',
       version='0.1',
