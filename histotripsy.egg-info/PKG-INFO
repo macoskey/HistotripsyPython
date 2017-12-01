@@ -1,10 +1,11 @@
-Metadata-Version: 1.0
+Metadata-Version: 1.1
 Name: histotripsy
 Version: 0.1
 Summary: Useful Functions for the Image-Guided Ultrasound Therapy Lab
 Home-page: https://github.com/macoskey/histotripsy
 Author: Jonathan Macoskey
 Author-email: macoskey@umich.edu
-License: Michigan
+License: MIT
 Description: UNKNOWN
 Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
