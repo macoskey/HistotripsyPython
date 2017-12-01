@@ -10,6 +10,7 @@
 #
 # First created: 12.1.17
 
+<<<<<<< HEAD
 from setuptools import setup, find_packages
 #~ from codecs import open
 #~ import os
@@ -19,6 +20,13 @@ from setuptools import setup, find_packages
 #~ with open(os.path.join(here, 'README.rst'),encoding='utf-8') as f:
 	#~ long_description = f.read()
 
+=======
+from setuptools import setup
+# from codecs import open
+# from os import path
+
+# here = path.abspath(path.dirname(__file__))
+>>>>>>> 512626e02dc6fbe7bd45b9fac8c43d73d892864d
 
 setup(name='histotripsy',
       version='0.1',
