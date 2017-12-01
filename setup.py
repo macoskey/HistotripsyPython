@@ -10,14 +10,11 @@
 #
 # First created: 12.1.17
 
-<<<<<<< HEAD
 from setuptools import setup
 # from codecs import open
 # from os import path
 
 # here = path.abspath(path.dirname(__file__))
-=======
-from setuptools import setup, find_packages
 #~ from codecs import open
 #~ import os
 
@@ -25,9 +22,6 @@ from setuptools import setup, find_packages
 
 #~ with open(os.path.join(here, 'README.rst'),encoding='utf-8') as f:
 	#~ long_description = f.read()
-
->>>>>>> 5db71bd11d916876ba90f3e539dec2c6a6d4c1f5
-
 setup(name='histotripsy',
       version='0.1',
       description='Useful Functions for the Image-Guided Ultrasound Therapy Lab',
