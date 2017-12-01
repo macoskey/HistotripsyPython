@@ -10,11 +10,23 @@
 #
 # First created: 12.1.17
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 02868c0098a2df3c54717d616577f3fd335e2166
 from setuptools import setup
 # from codecs import open
 # from os import path
 
 # here = path.abspath(path.dirname(__file__))
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> e084b6b6b6b977f8ff24b1d7afc6434e8e351fb0
+from setuptools import setup, find_packages
+>>>>>>> 02868c0098a2df3c54717d616577f3fd335e2166
 #~ from codecs import open
 #~ import os
 
@@ -22,6 +34,22 @@ from setuptools import setup
 
 #~ with open(os.path.join(here, 'README.rst'),encoding='utf-8') as f:
 	#~ long_description = f.read()
+<<<<<<< HEAD
+=======
+
+<<<<<<< HEAD
+=======
+from setuptools import setup
+# from codecs import open
+# from os import path
+
+# here = path.abspath(path.dirname(__file__))
+>>>>>>> 512626e02dc6fbe7bd45b9fac8c43d73d892864d
+=======
+>>>>>>> 5db71bd11d916876ba90f3e539dec2c6a6d4c1f5
+>>>>>>> e084b6b6b6b977f8ff24b1d7afc6434e8e351fb0
+
+>>>>>>> 02868c0098a2df3c54717d616577f3fd335e2166
 setup(name='histotripsy',
       version='0.1',
       description='Useful Functions for the Image-Guided Ultrasound Therapy Lab',
